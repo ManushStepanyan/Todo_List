@@ -1,0 +1,47 @@
+{
+  "todos": [
+    {
+      "id": "8549",
+      "title": "learn Zustand",
+      "completed": true
+    },
+    {
+      "id": "cf90",
+      "title": "Continous Learning",
+      "completed": false,
+      "important": true
+    },
+    {
+      "id": "3853",
+      "title": "learn React",
+      "completed": true,
+      "important": true
+    },
+    {
+      "id": "3b27",
+      "title": "learn JS",
+      "completed": false
+    },
+    {
+      "id": "254e",
+      "title": "learn testing Library",
+      "completed": true
+    },
+    {
+      "id": "3db5",
+      "title": "improve Soft Skills",
+      "completed": false,
+      "important": true
+    },
+    {
+      "id": "dba7",
+      "title": "Drink Coffee",
+      "completed": false
+    },
+    {
+      "id": "0d9d",
+      "title": "Prepair presentation",
+      "completed": true
+    }
+  ]
+}
